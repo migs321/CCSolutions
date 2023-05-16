@@ -1,0 +1,2 @@
+# CCSolutions
+Mock-singlestorepage
